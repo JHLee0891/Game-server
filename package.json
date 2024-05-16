@@ -1,0 +1,13 @@
+{
+  "name": "Game-server",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/JHLee0891/Game-server.git",
+  "author": "JHLee0891 <killiacaridos@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.3.5"
+  }
+}
